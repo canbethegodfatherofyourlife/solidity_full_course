@@ -1,6 +1,6 @@
 ## Welcome to this awesome full blown course on solidity
 
-## Docs - https://docs.google.com/document/d/1HRH4Hq2YSj0JX_5KsJdtDPTPW2ALsDsGExPjdvilkoQ/edit?usp=sharing
+## Docs - https://pitch.com/public/eae1441d-679b-4320-a4e1-e482df043401
 
 ## Topics - 
 
